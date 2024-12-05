@@ -1,7 +1,3 @@
-Certainly! Here's an updated `README.md` file that includes the functionality for **searching**, **editing**, **fetching**, and **deleting** users, along with other important features.
-
----
-
 # AuthScreen React App with User Management
 
 ## Overview
