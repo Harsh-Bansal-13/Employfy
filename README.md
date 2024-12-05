@@ -159,9 +159,3 @@ The app is connected to **Reqres API** (`https://reqres.in/`) for user data mana
 - **Error Feedback**: Improve error handling by categorizing and handling different error types (e.g., network issues).
 
 ---
-
-## License
-
-This project is licensed under the **MIT License**.
-
----
